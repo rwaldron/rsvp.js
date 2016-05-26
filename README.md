@@ -1,5 +1,7 @@
 # RSVP.js
 
+[![Join the chat at https://gitter.im/rwaldron/rsvp.js](https://badges.gitter.im/rwaldron/rsvp.js.svg)](https://gitter.im/rwaldron/rsvp.js?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 RSVP.js provides simple tools for organizing asynchronous code.
 
 Specifically, it is a tiny implementation of Promises/A and a
